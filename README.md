@@ -1,2 +1,2 @@
-# web-masterclass-template
-masterclass template til undervisning og elev opgaver
+# chat-app-arrays
+master app for array classes
