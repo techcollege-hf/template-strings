@@ -1,2 +1,2 @@
-# chat-app-arrays
-master app for array classes
+# arrays-codeLab
+array opgaver og forståelse
