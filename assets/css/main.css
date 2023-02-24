@@ -20,6 +20,10 @@ h6 {
   font-family: "Poppins", sans-serif;
 }
 
+h1 {
+  font-size: 3rem;
+}
+
 .mainDescription {
   margin-bottom: 2em;
   margin-top: 2em;

@@ -1,3 +1,8 @@
+/* opgave 1
+du må erne style din message :)
+*/
+
+/*opgave 2*/
 #produktListe {
   display: flex;
   flex-wrap: wrap;
@@ -10,6 +15,7 @@
   width: 90%;
 }
 
+/*opgave 3*/
 form {
   width: 40%;
   background-color: #f1efef;
