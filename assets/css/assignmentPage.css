@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  width: 600px;
+  width: 70%;
   margin-bottom: 1em;
 }
 
@@ -20,13 +20,20 @@ header {
 
 .assignmentArea {
   margin-top: 1rem;
-  width: 600px;
+  width: 60%;
+  min-width: 600px;
   border: 2px solid black;
   border-radius: 0pc 0px 30px 0px;
   overflow: hidden;
 }
 .assignmentArea article {
+  padding: 1rem;
+}
+
+.assignmentArea ol,
+ul {
   padding-left: 1rem;
+  padding-bottom: 1rem;
 }
 
 button {
@@ -58,5 +65,22 @@ button {
 }
 
 footer {
-  width: 600px;
+  width: 70%;
+}
+
+.hintbutton {
+  color: aliceblue;
+  background-color: orange;
+  border: none;
+}
+.hint {
+  display: none;
+}
+
+pre {
+  background-color: rgb(112, 112, 113);
+  color: aliceblue;
+  overflow-x: auto;
+  tab-size: 1;
+  border-radius: 0.5rem;
 }
